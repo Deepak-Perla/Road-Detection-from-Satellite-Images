@@ -62,13 +62,3 @@ The following images show the comparison of the ground truth, and it's correspon
 
 ## Acknowledgements
 This dataset was obtained from Road Extraction Challenge Track in DeepGlobe Challenge . For more details on the dataset refer the related publication - DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images
-
-Any work based on the dataset should cite:
-
-@InProceedings{DeepGlobe18,
- author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},
- title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},
- booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
- month = {June},
- year = {2018}
-}
