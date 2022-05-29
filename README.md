@@ -19,6 +19,7 @@ This model is a slight modification of original U-Net architecture. The details 
 
 ### Data
 
+This is a competition where they have given dataset to only participants so it is not officially released. Headover Acknowledgements
 - The training data for Road Challenge contains 6226 satellite imagery in RGB, size 1024x1024.
 - The imagery has 50cm pixel resolution, collected by DigitalGlobe's satellite.
 - The dataset contains 1243 validation and 1101 test images (but no masks).
@@ -57,4 +58,17 @@ The following images show the comparison of the ground truth, and it's correspon
 ## References
 
 - Original Dataset:https://competitions.codalab.org/competitions/18467 (DATASET NOT RELEASED)
-- Datasets used: https://drive.google.com/drive/folders/1_wBiTCBZ26F_NNpJshw5kwEHyaSeyzFC?usp=sharing
+- Datasets used: https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset
+
+## Acknowledgements
+This dataset was obtained from Road Extraction Challenge Track in DeepGlobe Challenge . For more details on the dataset refer the related publication - DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images
+
+Any work based on the dataset should cite:
+
+@InProceedings{DeepGlobe18,
+ author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},
+ title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},
+ booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+ month = {June},
+ year = {2018}
+}
