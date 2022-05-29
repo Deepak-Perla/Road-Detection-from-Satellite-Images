@@ -1,5 +1,7 @@
 # Road-Detetction-from-Satellite-Images
 
+![[object Object]](https://socialify.git.ci/Deepak-Perla/Road-Detetction-from-Satellite-Images/image?language=1&pattern=Circuit%20Board&theme=Dark)
+
 ## U-Net-Satellite
 
 The aim of this project is road detection from satellite images using a variant of deep Convolutional Neural Networks which is known as U-Net. The output of the model is a segmentation mask which differentiates roads from other terrains.
