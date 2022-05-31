@@ -1,6 +1,6 @@
 # Road-Detetction-from-Satellite-Images
 
-![[object Object]](https://socialify.git.ci/Deepak-Perla/Road-Detetction-from-Satellite-Images/image?language=1&pattern=Circuit%20Board&theme=Dark)
+![[object Object]](https://socialify.git.ci/Deepak-Perla/Road-Detection-from-Satellite-Images/image?language=1&pattern=Circuit%20Board&theme=Dark)
 
 ## U-Net-Satellite
 
